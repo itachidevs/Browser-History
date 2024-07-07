@@ -1,0 +1,14 @@
+.empty-container {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8fafc;
+  height: 100vh;
+}
+.suggestion {
+  font-size: 2rem;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #64748b;
+}
